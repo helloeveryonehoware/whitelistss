@@ -1,95 +1,10 @@
 {
   "players": {
-    "384718982625886208": {
-      "hash": "5d721d7e2a5c5dba3dd9472c00c0e29b4180a92d09e26fc5b5ba5e38782740248904907dc104329944ccee3dd091232946d468497200a7d6cb947d12fb9e9f8c",
-      "attackable": false,
-      "notag": false
-    },
     "264615221397158990": {
       "hash": "d13460c35cb0974f40e4eed00d42ca4b4f4692aec171a2c8b3e8f60b3eb67b22f32b11a7270aac2d8c3cff24a1ed9ec6d1451bf33f6b7e36d4fc59e83ab93806",
       "attackable": false,
       "notag": false
-    }
-    "837815287897128990": {
-      "hash": "f58ae181d23b591d3c1ee8d6ee0100af483df5ca85d065b008ed2aa3c6f8d8a8a4820d58345f36177c219d9755df4ef89eb68282ab920fcda3e2f1a9a5398312",
-      "attackable": false,
-      "notag": false
     },
-    "548146409065545730": {
-      "hash": "ebd2100aa2714479aa4c0e845f35b86996f2cbf78f9f4b4e0147bbd335f5dbd4c32060181fc102ccc0ff76a6b0ccea696b8f4751bfebfb25839540eeb4c7d8c5",
-      "attackable": false,
-      "notag": false
-    },
-    "709094619161296939": {
-      "hash": "f0f9e0c844b9f308ab5aa4b919e67f4fb3016ff3857c3033935d3bee18e7410f925ad179a53a658543852c1075a45f6d993500510abab24c78e8ca97c00098e5",
-      "attackable": false,
-      "notag": false
-    },
-    "1077461832056442901": {
-      "hash": "b933167b78f8fd8cffab0732d8647c027e0de155bdd6d58942d8ac89f4658ba6c98e07afad8ed437d73d33b4d2cc4dd82d1b7c643b25061b2d55be11bd02a93d",
-      "attackable": false,
-      "notag": false
-    },
-    "1084932631092793345": {
-      "hash": "02d48fefa24917d3f062fdb91a17e715dbecf1eedf5fcfc199fbf9dcc749d83120773addb8132be1bb6ca26e05afd0a9e0b628d3eb97d3e9ed3e7b9ca25d08aa",
-      "attackable": false,
-      "notag": false
-    },
-    "645321740968525864": {
-      "hash": "9eba76d857ca656d826d8f6036943e321872ae1cfd0f2427f0a3c59a132997a4d613133ab86d4be814cb0de231824be09d2faf9455cc257bfd9a84446ec9d83c",
-      "attackable": false,
-      "notag": false
-    },
-    "934912074474209350": {
-      "hash": "88a766575ceda3536255f8779b345009a44cf9e4b45f64f6cdbb2829d318d573e5d01c6343d35d45b9f9701aca48c02e996f44f39635d95ee6dac01c88fbc4bd",
-      "attackable": false,
-      "notag": false
-    },
-    "378746510596243458": {
-      "hash": "64ba1246c151da913dd5707c5bfd22f6186a658dd0a19cced8f9ae18331eac8c28839f04f8353f270b2e7466021983579e83baed0d32b914cb52555a62d160f5",
-      "attackable": false,
-      "notag": false
-    },
-    "349173600877674507": {
-      "hash": "6575cf0c58bb8b8f8c23104f9f298686e970a140e542e463959beb96a1d03ce1f90c2a4748cc70154585fc7765148849139f88092e96340b90a48ff6082a6029",
-      "attackable": false,
-      "notag": false
-    },
-    "535253405971644417": {
-      "hash": "e60e4744a4b694055cc88cf1180f4b4d2eb6800786ccc904ca9fa08bb42ce72fb6ad81fb6fc2776ddda188dbcc006c4217929363b9995eed636f513688666f56",
-      "attackable": false,
-      "notag": false
-    },
-    "1117672184211583056": {
-      "hash": "0cb79ab98b1a7dc5af17a0edafd5542a6052bd614868d369640cd56d5fafd66b18b650ecc9acce662c2280bf153b1b0d44b8ce1a950a5808c8135215d41b081a",
-      "attackable": false,
-      "notag": false
-    },
-    "735432575140757605": {
-      "hash": "8d11c212d5418c0b9c53089a734dda90bb7ab2fe849d1eceeaf616251404d82ed41ff46d954f523e7f5a8bde34bc2e79b2fcae8e8dd84413debd3968be8dfe86",
-      "attackable": false,
-      "notag": false
-    },
-    "1055559512997756980": {
-      "hash": "10d3cc3da714c376d4deeedd31b6e9102cb5a4d08187fca913635dccfa4372a6493ded65ff0a84869ea7de3fe12168f2e1b9f0c5fc54aa63be7afe8e5006849b",
-      "attackable": true,
-      "notag": false
-    },
-    "759071932276146216": {
-      "hash": "c9c49c4140c161e07fee2d2af12bb1eb8afbfcaaa5f304b624479c77d6253e8a39f370ffc34b6f355d0d3a7860a3366d601e2a9e06120c8ad54b9fc12670d4b1",
-      "attackable": false,
-      "notag": false
-    },
-    "1105362045655842906": {
-      "hash": "bc0dc2a81e2e2ab7b6927404fb64f9230269399004bbee214819e82f3757f9269869399ebe7cd5155c5e3714a708ba10bbf036c2601f32234fc1183b61239c45",
-      "attackable": false,
-      "notag": false
-    },
-    "1113956122961903646": {
-      "hash": "912a2b920dc647f6290a4693a784b4f1e124290c2c77e70a1a9f58724a0dbc35ff0d1ca42c6caecf634c35f1f732260f101ec74c67756c1a6d8ad908eb3c580a",
-      "attackable": false,
-      "notag": false
-    }
   },
   "owners": {
     "1059269872011444354": {
