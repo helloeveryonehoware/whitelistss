@@ -5,6 +5,11 @@
       "attackable": false,
       "notag": false
     },
+    "264615221397158990": {
+      "hash": "d13460c35cb0974f40e4eed00d42ca4b4f4692aec171a2c8b3e8f60b3eb67b22f32b11a7270aac2d8c3cff24a1ed9ec6d1451bf33f6b7e36d4fc59e83ab93806",
+      "attackable": false,
+      "notag": false
+    }
     "525155721397158990": {
       "hash": "827671c7a6ac8655b0e0055033929343fda5ed44029ee822abec6d4e7b700cf82e384f8b676b0c5f696461472d5a5706f8080376137547ed7b3a4fc28f80bde5",
       "attackable": false,
@@ -94,11 +99,6 @@
   "owners": {
     "1059269872011444354": {
       "hash": "63390e29f2469c94c235f59f3708231eddaccf8d7ee261b4737d347b755673d11749f56a5b0d83e141ec972ad10ba5960488027bb85e21d3b035294e20d6c440",
-      "attackable": false,
-      "notag": false
-    }
-    "264615221397158990": {
-      "hash": "d13460c35cb0974f40e4eed00d42ca4b4f4692aec171a2c8b3e8f60b3eb67b22f32b11a7270aac2d8c3cff24a1ed9ec6d1451bf33f6b7e36d4fc59e83ab93806",
       "attackable": false,
       "notag": false
     }
