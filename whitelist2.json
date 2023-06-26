@@ -1,0 +1,1337 @@
+{
+  "players": {
+    "384718982625886208": {
+      "hash": "5d721d7e2a5c5dba3dd9472c00c0e29b4180a92d09e26fc5b5ba5e38782740248904907dc104329944ccee3dd091232946d468497200a7d6cb947d12fb9e9f8c",
+      "attackable": false,
+      "notag": false
+    },
+    "837815287897128990": {
+      "hash": "f58ae181d23b591d3c1ee8d6ee0100af483df5ca85d065b008ed2aa3c6f8d8a8a4820d58345f36177c219d9755df4ef89eb68282ab920fcda3e2f1a9a5398312",
+      "attackable": false,
+      "notag": false
+    },
+    "548146409065545730": {
+      "hash": "ebd2100aa2714479aa4c0e845f35b86996f2cbf78f9f4b4e0147bbd335f5dbd4c32060181fc102ccc0ff76a6b0ccea696b8f4751bfebfb25839540eeb4c7d8c5",
+      "attackable": false,
+      "notag": false
+    },
+    "709094619161296939": {
+      "hash": "f0f9e0c844b9f308ab5aa4b919e67f4fb3016ff3857c3033935d3bee18e7410f925ad179a53a658543852c1075a45f6d993500510abab24c78e8ca97c00098e5",
+      "attackable": false,
+      "notag": false
+    },
+    "1077461832056442901": {
+      "hash": "b933167b78f8fd8cffab0732d8647c027e0de155bdd6d58942d8ac89f4658ba6c98e07afad8ed437d73d33b4d2cc4dd82d1b7c643b25061b2d55be11bd02a93d",
+      "attackable": false,
+      "notag": false
+    },
+    "1084932631092793345": {
+      "hash": "02d48fefa24917d3f062fdb91a17e715dbecf1eedf5fcfc199fbf9dcc749d83120773addb8132be1bb6ca26e05afd0a9e0b628d3eb97d3e9ed3e7b9ca25d08aa",
+      "attackable": false,
+      "notag": false
+    },
+    "645321740968525864": {
+      "hash": "9eba76d857ca656d826d8f6036943e321872ae1cfd0f2427f0a3c59a132997a4d613133ab86d4be814cb0de231824be09d2faf9455cc257bfd9a84446ec9d83c",
+      "attackable": false,
+      "notag": false
+    },
+    "934912074474209350": {
+      "hash": "88a766575ceda3536255f8779b345009a44cf9e4b45f64f6cdbb2829d318d573e5d01c6343d35d45b9f9701aca48c02e996f44f39635d95ee6dac01c88fbc4bd",
+      "attackable": false,
+      "notag": false
+    },
+    "378746510596243458": {
+      "hash": "64ba1246c151da913dd5707c5bfd22f6186a658dd0a19cced8f9ae18331eac8c28839f04f8353f270b2e7466021983579e83baed0d32b914cb52555a62d160f5",
+      "attackable": false,
+      "notag": false
+    },
+    "349173600877674507": {
+      "hash": "6575cf0c58bb8b8f8c23104f9f298686e970a140e542e463959beb96a1d03ce1f90c2a4748cc70154585fc7765148849139f88092e96340b90a48ff6082a6029",
+      "attackable": false,
+      "notag": false
+    },
+    "535253405971644417": {
+      "hash": "e60e4744a4b694055cc88cf1180f4b4d2eb6800786ccc904ca9fa08bb42ce72fb6ad81fb6fc2776ddda188dbcc006c4217929363b9995eed636f513688666f56",
+      "attackable": false,
+      "notag": false
+    },
+    "1117672184211583056": {
+      "hash": "0cb79ab98b1a7dc5af17a0edafd5542a6052bd614868d369640cd56d5fafd66b18b650ecc9acce662c2280bf153b1b0d44b8ce1a950a5808c8135215d41b081a",
+      "attackable": false,
+      "notag": false
+    },
+    "735432575140757605": {
+      "hash": "8d11c212d5418c0b9c53089a734dda90bb7ab2fe849d1eceeaf616251404d82ed41ff46d954f523e7f5a8bde34bc2e79b2fcae8e8dd84413debd3968be8dfe86",
+      "attackable": false,
+      "notag": false
+    },
+    "1055559512997756980": {
+      "hash": "10d3cc3da714c376d4deeedd31b6e9102cb5a4d08187fca913635dccfa4372a6493ded65ff0a84869ea7de3fe12168f2e1b9f0c5fc54aa63be7afe8e5006849b",
+      "attackable": true,
+      "notag": false
+    },
+    "759071932276146216": {
+      "hash": "c9c49c4140c161e07fee2d2af12bb1eb8afbfcaaa5f304b624479c77d6253e8a39f370ffc34b6f355d0d3a7860a3366d601e2a9e06120c8ad54b9fc12670d4b1",
+      "attackable": false,
+      "notag": false
+    },
+    "1105362045655842906": {
+      "hash": "bc0dc2a81e2e2ab7b6927404fb64f9230269399004bbee214819e82f3757f9269869399ebe7cd5155c5e3714a708ba10bbf036c2601f32234fc1183b61239c45",
+      "attackable": false,
+      "notag": false
+    },
+    "1113956122961903646": {
+      "hash": "912a2b920dc647f6290a4693a784b4f1e124290c2c77e70a1a9f58724a0dbc35ff0d1ca42c6caecf634c35f1f732260f101ec74c67756c1a6d8ad908eb3c580a",
+      "attackable": false,
+      "notag": false
+    }
+  },
+  "owners": {
+    "1059269872011444354": {
+      "hash": "63390e29f2469c94c235f59f3708231eddaccf8d7ee261b4737d347b755673d11749f56a5b0d83e141ec972ad10ba5960488027bb85e21d3b035294e20d6c440",
+      "attackable": false,
+      "notag": false
+    }
+  },
+  "chattags": {
+    "1596c3e5c9bd2cc1ef62d2456b02159934f2048abcd5c197107bc23c022653ddc6947588d59a0e7eb202d9de990854c9fad52f81341e77d35ec846219a369029": {
+      "NameColor": {
+        "r": 3,
+        "g": 207,
+        "b": 252
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 3,
+            "g": 207,
+            "b": 252
+          },
+          "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "04a06c7cdf52342dc1cc337cc9c9ea51aecfeea6e9f793547bbfc0eb128e419ef55e09f88c103b75740072f4bc64ef84b9f2061b71b6dfd4f0d65a20f85cfa93": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "6864c98b019f08143db0a2b22840d5996d14acf6e67296b91c507ec674d227f973ec25010be777c5122774d4b5295cf9057cabcc2f1450d7f16e6b5b03111e2d": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "8e4c5d0749162723901cb682b566b576f217651de17d3a7da29645ff30292b6b449f6f89843b643b8c40efc1a2989b65daac48f43039f32e8fdf2485649167be": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "TYPEWRITER"
+        }
+      ]
+    },
+    "05795c6d051397fdc5701410e55fa79191988a5015d5beb50d9465845e6cd1c5d16949682036bbb0e51301adf227e07d7862f4da2a1223d63a1bc8a506bf2223": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "dbb30e63cda6e7313437b91185ec928399a18f2454553243769ab6515c22ec6d48f4cd69741f4f01b3c4cee9177fbfd8487eb3d123368bfe7ceeee0f74a94cb1": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "033c757276ceb582a657e96f29a2acad8d19d3d35c2a7631b70d43d1b1fe93401cbf8921911601db5167a4588af90c664c21d798ca164956efa29c5be187273b": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "cfe039e7f9c782f2a46b9771b21cc8a8a4b370326dc78965b357b269b85ae66ac1bc3621d435b9f030e4f5bdd326b91cd88fa555cce829b1170638c5350048f9": {
+      "NameColor": {
+        "r": 174,
+        "g": 255,
+        "b": 53
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 174,
+            "g": 255,
+            "b": 53
+          },
+          "TagText": "BALLER"
+        }
+      ]
+    },
+    "21df861cf87c4bfc9ba7de6009a0907c66a845a93ff7063c9e6c03cb823477c71c843fa10f88de423f33a23c4c5de4c60fbba771c1c9c8af9545cd665e0d2c8a": {
+      "NameColor": {
+        "r": 255,
+        "g": 150,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 150,
+            "b": 0
+          },
+          "TagText": "CONSTRUCTION WORKER"
+        }
+      ]
+    },
+    "0d5ed58b4a9d72a73e3aac0dd508ee9ff172e92bf796891b951aac7dac57e5db34c1cb75a20e24ff1dbfc4d60eec6badfddc7be94a640552ce1c107c3b0b663b": {
+      "NameColor": {
+        "r": 174,
+        "g": 255,
+        "b": 53
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 174,
+            "g": 255,
+            "b": 53
+          },
+          "TagText": "BALLER"
+        }
+      ]
+    },
+    "e0ff711d19912266a468bddc53a186a2b529f399021dfc3c90d68dafc759af11717bf6910dff7da6f9aeda717253167e735f180bf6af76389991f64414889248": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "b9ed6fcb2b83b27d55700500e1743cb907a6d4c8f59f4dac1be05288553830f7777c8441813247ae8e14aaca1a43765a942f240c48bd0efe3f9f1aa8dbbd08fe": {
+      "NameColor": {
+        "r": 255,
+        "g": 150,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 150,
+            "b": 0
+          },
+          "TagText": "CONSTRUCTION MANAGER"
+        }
+      ]
+    },
+    "6acd9c2b023889762c27ed9ddab1b4533bc7c2674861fda5c1e2162f1c12c55621e627378ec331f515468886612fc558d12548414cc68698dfae2af0886db030": {
+      "NameColor": {
+        "r": 255,
+        "g": 150,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 150,
+            "b": 0
+          },
+          "TagText": "CONSTRUCTION WORKER"
+        }
+      ]
+    },
+    "c067e91dec67df9b95b9ebac22b6a5fef5b6d790b80a41430a9f5ccf3e6a233cacae03eafcad0e5d57fb85a2b083cbfc7cc1c073a4c87b03f53ac206b5bd2ec3": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "TYPEWRITER"
+        }
+      ]
+    },
+    "085147494264d30dac70c274dbc8c544e24b0bab9b790fa95a198d7cccc8a1c99c9a25e274efdd0a8984e8260593dd3bdb64cea2fb0c4a26e6f623fe6b92ac94": {
+      "NameColor": {
+        "r": 174,
+        "g": 255,
+        "b": 53
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 174,
+            "g": 255,
+            "b": 53
+          },
+          "TagText": "BALLER"
+        }
+      ]
+    },
+    "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c": {
+      "NameColor": {
+        "r": 3,
+        "g": 207,
+        "b": 252
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 3,
+            "g": 207,
+            "b": 252
+          },
+          "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "38c29b0d998a62b92661bb6d77c265836391818d0a28c1b86e32f4af1df35d5c8063d9b095ba02d204295ea1fb77275683917e15fab13e9ce79895126798ed33": {
+      "NameColor": {
+        "r": 170,
+        "g": 0,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 170,
+            "g": 0,
+            "b": 255
+          },
+          "TagText": "AC MOD"
+        }
+      ]
+    },
+    "5d721d7e2a5c5dba3dd9472c00c0e29b4180a92d09e26fc5b5ba5e38782740248904907dc104329944ccee3dd091232946d468497200a7d6cb947d12fb9e9f8c": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 255
+          },
+          "TagText": "burn down the fucking forest in canada man i hate canada canada is such a bad country please do not ever go to canada cause xylex will rape a moose then eat a big black cock"
+        }
+      ]
+    },
+    "da14b8ae1806e30105515e35e2d25c746c13689c379c1cc12daf6befadfcafb39fd42c97bcf243b4a5a82b8389cd3d3a68cb467a61562940d2adf7606c52ba68": {
+      "NameColor": {
+        "r": 3,
+        "g": 207,
+        "b": 252
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 3,
+            "g": 207,
+            "b": 252
+          },
+          "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "0db6b7f72463ba098254791a047749f97e0a88f4f085b9a304b7b7b57347cff999f79d056dabeb2173d3bdf0bbde343ec42c41d2e6cfc74b8e69baa2709885a6": {
+      "NameColor": {
+        "r": 3,
+        "g": 207,
+        "b": 252
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 3,
+            "g": 207,
+            "b": 252
+          },
+          "TagText": "PRISM OWNER"
+        }
+      ]
+    },
+    "045166ea60b22bed900ebdfdcea35f33ae3136085632736954583d51852f33124d42f20b4c0f13b4a17aaa9d64ff0027af4929b359d79cc849e9d13aa807d15e": {
+      "NameColor": {
+        "r": 255,
+        "g": 100,
+        "b": 100
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 100,
+            "b": 100
+          },
+          "TagText": "VAPE PRIVATE (im pregnant)"
+        }
+      ]
+    },
+    "1b8bd74fb274c722bfb9a5ea52fc7840995ee3a07d5e70e566400ee313326fdbd86ef936185223344b540f643ede4466668553b4f608c876df862783083fa5b9": {
+      "NameColor": {
+        "r": 255,
+        "g": 112,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 112,
+            "b": 255
+          },
+          "TagText": "FAMOUS"
+        }
+      ]
+    },
+    "ad7626ef271ead22b7a84bd89e2ebe2f34db214d1097fa34af81170dc59e9503be184d5ba8c75e43d2b7682b9b59ad58c9fab93497096ca14d71cd139530f39c": {
+      "NameColor": {
+        "r": 160,
+        "g": 34,
+        "b": 160
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 160,
+            "g": 34,
+            "b": 160
+          },
+          "TagText": "AC MOD"
+        }
+      ]
+    },
+    "7c3b6455ab8321bdfea51c75fb096188306207ca445d7fafe4665b01e6774a829299cd4860ce884dbcfb37eb9babf42237e055803bca0eb8c97348c3142db451": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "6575cf0c58bb8b8f8c23104f9f298686e970a140e542e463959beb96a1d03ce1f90c2a4748cc70154585fc7765148849139f88092e96340b90a48ff6082a6029": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n"
+        }
+      ]
+    },
+    "e88cb1a640ea1310a6fb026d952a65e1890d04217734bb81037f5d64fc3550126249760e0de8d091241504ea60d85a322cecdd05d6f755a7bf2bb60e5262fe43": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n"
+        }
+      ]
+    },
+    "8d11c212d5418c0b9c53089a734dda90bb7ab2fe849d1eceeaf616251404d82ed41ff46d954f523e7f5a8bde34bc2e79b2fcae8e8dd84413debd3968be8dfe86": {
+      "NameColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          },
+          "TagText": "\\000"
+        }
+      ]
+    },
+    "e9dc6589f5bdb25b8b25165e1b2a6f4101bf0e98f5298dbef76330cd2017ac1974cb99ea4a40ef88b3a001ea5ffd152db4b63738b9a1e3adac0e65f27ad92e7a": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "f58ae181d23b591d3c1ee8d6ee0100af483df5ca85d065b008ed2aa3c6f8d8a8a4820d58345f36177c219d9755df4ef89eb68282ab920fcda3e2f1a9a5398312": {
+      "NameColor": {
+        "r": 240,
+        "g": 12,
+        "b": 80
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 240,
+            "g": 12,
+            "b": 80
+          },
+          "TagText": "Cock Slut"
+        }
+      ]
+    },
+    "3412a66d0422746417cba2d010755c36c135732814a5072421076847487b8e5d5e0c96e4e0b7cd533906ccb37bbe768f0af347ca883092e8c35a971bca327328": {
+      "NameColor": {
+        "r": 135,
+        "g": 206,
+        "b": 250
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 135,
+            "g": 206,
+            "b": 250
+          },
+          "TagText": "zeyhu is hot"
+        }
+      ]
+    },
+    "cdc60e8b254c266b8a9f08508b218448f4f9a113c5e9cb035c9e784159beae28ca73a7cc22dc1db6a59373fca5cff16d1a20a78c788013ebb1e4a3a1c96dee6e": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "VAPE PRIVATE broskid edition"
+        }
+      ]
+    },
+    "abd28fe2027f646211d3d0a4f66a9e60ffedf22e44bff20e8a22199e88159ce5e6a2e162fe366d22da3adf024f009d42a9ec2a9be0c542cb6929b3d847630b97": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "f0f9e0c844b9f308ab5aa4b919e67f4fb3016ff3857c3033935d3bee18e7410f925ad179a53a658543852c1075a45f6d993500510abab24c78e8ca97c00098e5": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 0
+          },
+          "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "15a6d9e88c11e5933d81b19170160770407800aaa005767bb830d43418e86065d38f32aff46307410761c5376dbb98957bd7a54d73c49665df5bc2c146770cde": {
+      "NameColor": {
+        "r": 5,
+        "g": 155,
+        "b": 250
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 5,
+            "g": 155,
+            "b": 250
+          },
+          "TagText": "VAPE PRIVATE (pedo??)"
+        }
+      ]
+    },
+    "a95c384260cfa56da785b8e3d96905afb798b2bbceee6ae2a589823621d40c6e1a1bed0a9d7932302061d355372b5bcce3ff5aab2f55da2b74210b32bba4ec08": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "9e99981942c9c08acdcfaec1fd137a061fb62fe26b3e77885facdcfc8f344bca6bd651082c16debdbab52f2d913d6ff2eeec619e6b29210449d941472082eb3c": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "fcb4234630ea329f67ff0c9d3d352b93404fafcd6980a1a0a55c52036320c73ee1268cbcf14b03008894ad3cca9f15672aea255571fb222208971046bd9743a1": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "a61acd8ed905ba703c5c1ff2d85f68a75d1e215792621ace85b6592cf63987c088fa845c478229694093c9dfd92a7f805f0c8509137117a2270b8253910321e3": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "94c1a67015f996a254865dec9f83ef59b36415538fd0988bcd4e8fa084d7c9932107a4a4784342fd978edd47549e616b7dc65d0dde7fd66a8d932c7aca9d7ca0": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "27c01fc5a15510e130030728ce86e0c785038454e101574535ba4437036f5c16348a79688a68eed02dc929645d6f3db4ff1ee5632ced7b1e7268c2151bb7a3ad": {
+      "NameColor": {
+        "r": 160,
+        "g": 34,
+        "b": 160
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 160,
+            "g": 34,
+            "b": 160
+          },
+          "TagText": "AC MOD"
+        }
+      ]
+    },
+    "e35b9437d0a362152de1adec4f5e24c1cfe3a268a02430b72944b0db6df1c516a4050f58ef2850d9aa4a278ebf2c07dd23341538e154ed9abcf122fc1ffe0467": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "1e0f6ce252719bf79e09e53bfd3b8c8fe8f001a8f45f116f229b5c7cb9b925dd5d9f3a5734ed26fcafba08776d42c947381b3cf61491944921aeb743397610c4": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "0615db6cb2868b82ccfd92380a4f142f64474f9522bece1bd413cfcea0477c5621892bd336a4c645a9867c2013e3cbf0a0bdf45406af3f61ccd9af5575d20ed4": {
+      "NameColor": {
+        "r": 5,
+        "g": 5,
+        "b": 175
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 5,
+            "g": 5,
+            "b": 175
+          },
+          "TagText": "[VAPE PRIVATE] (abuser)"
+        }
+      ]
+    },
+    "5fd47e5d9c3d26227292644e95ae3446535646bbed59ec808704cf1de50c5d118efc2349c93d87bd7542d7e0fbe07786f20370949016b9b0727b6311173f19ed": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "64ba1246c151da913dd5707c5bfd22f6186a658dd0a19cced8f9ae18331eac8c28839f04f8353f270b2e7466021983579e83baed0d32b914cb52555a62d160f5": {
+      "NameColor": {
+        "r": 160,
+        "g": 34,
+        "b": 160
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 160,
+            "g": 34,
+            "b": 160
+          },
+          "TagText": "AC MOD"
+        }
+      ]
+    },
+    "a2fe51483b227735bdeebd832ed2730dda3f9203ff4e646f050caed1011f57784a12acd4ffbe43b204702f55067b0df631b453c7ce5df378e304ad3a0e5bc5da": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "2ee066e61e52a891c0710c75c42a1beb2e71152ef3a423221a4d9e633f0a3033cabb202a8b9cf53b1ea72d0e6e78bb5af1a8091bfb1bd6a9e4c46c5b2b667b05": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n"
+        }
+      ]
+    },
+    "10d3cc3da714c376d4deeedd31b6e9102cb5a4d08187fca913635dccfa4372a6493ded65ff0a84869ea7de3fe12168f2e1b9f0c5fc54aa63be7afe8e5006849b": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 0,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "VAPE PRIVATE broskid edition"
+        }
+      ]
+    },
+    "fea4164dbb7fc6170d01b6ebcd3aab57b7866f8121df90183a07237104b8cdb1a8248c226adaacaca4db08aa5fadcaa05f424cc74e4651de4a2311660654eac0": {
+      "NameColor": {
+        "r": 255,
+        "g": 77,
+        "b": 77
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 77,
+            "b": 77
+          },
+          "TagText": "Certified Rapist (free-esex.ru)"
+        }
+      ]
+    },
+    "962692006ae240904277c3bd654926fc2cdc62e964e13066cf94e13cffa1766cedbd9bd7bf7090b32b09cd1b7abbcc12cb399d1b63360030a2730f550431f934": {
+      "NameColor": {
+        "r": 85,
+        "g": 26,
+        "b": 139
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 85,
+            "g": 26,
+            "b": 139
+          },
+          "TagText": "AC MOD"
+        }
+      ]
+    },
+    "0cb79ab98b1a7dc5af17a0edafd5542a6052bd614868d369640cd56d5fafd66b18b650ecc9acce662c2280bf153b1b0d44b8ce1a950a5808c8135215d41b081a": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 105,
+            "b": 180
+          },
+          "TagText": "Josiah Boney :3"
+        }
+      ]
+    },
+    "be60cdda807b1c3869355f69ed6330d7a5bab9111eb159cff6a93938ca9dc0a0f70db36c2c1b580803ffbe2d5a97e76a54730a35b16ce34e60a9f906639d735f": {
+      "NameColor": {
+        "r": 150,
+        "g": 0,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 150,
+            "g": 0,
+            "b": 255
+          },
+          "TagText": "AC MOD"
+        }
+      ]
+    },
+    "88a766575ceda3536255f8779b345009a44cf9e4b45f64f6cdbb2829d318d573e5d01c6343d35d45b9f9701aca48c02e996f44f39635d95ee6dac01c88fbc4bd": {
+      "NameColor": {
+        "r": 85,
+        "g": 26,
+        "b": 139
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 85,
+            "g": 26,
+            "b": 139
+          },
+          "TagText": "AC MOD"
+        }
+      ]
+    },
+    "ebd2100aa2714479aa4c0e845f35b86996f2cbf78f9f4b4e0147bbd335f5dbd4c32060181fc102ccc0ff76a6b0ccea696b8f4751bfebfb25839540eeb4c7d8c5": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n"
+        }
+      ]
+    },
+    "b933167b78f8fd8cffab0732d8647c027e0de155bdd6d58942d8ac89f4658ba6c98e07afad8ed437d73d33b4d2cc4dd82d1b7c643b25061b2d55be11bd02a93d": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+        }
+      ]
+    },
+    "c9c49c4140c161e07fee2d2af12bb1eb8afbfcaaa5f304b624479c77d6253e8a39f370ffc34b6f355d0d3a7860a3366d601e2a9e06120c8ad54b9fc12670d4b1": {
+      "NameColor": {
+        "r": 255,
+        "g": 77,
+        "b": 77
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 77,
+            "b": 77
+          },
+          "TagText": "AC MOD"
+        }
+      ]
+    }
+  },
+  "specialusers": {
+    "529155884643909643": {
+      "NameColor": {
+        "r": 70,
+        "g": 70,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 70,
+          "g": 70,
+          "b": 255
+        },
+        "TagText": "SYNAPSE OWNER"
+      }
+    },
+    "582558971722727424": {
+      "NameColor": {
+        "r": 40,
+        "g": 40,
+        "b": 140
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 40,
+          "g": 40,
+          "b": 140
+        },
+        "TagText": "SYNAPSE STAFF"
+      }
+    },
+    "1030586129466003537": {
+      "NameColor": {
+        "r": 70,
+        "g": 70,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 70,
+          "g": 70,
+          "b": 255
+        },
+        "TagText": "SYNAPSE OWNER"
+      }
+    },
+    "548146409065545730": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "TagText": "===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n===\u2708 \u220f\u220f\n"
+      }
+    },
+    "837815287897128990": {
+      "NameColor": {
+        "r": 240,
+        "g": 12,
+        "b": 80
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 240,
+          "g": 12,
+          "b": 80
+        },
+        "TagText": "Cock Slut"
+      }
+    },
+    "709094619161296939": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 255,
+          "b": 0
+        },
+        "TagText": "VAPE USER"
+      }
+    },
+    "527557888990904320": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 0,
+          "b": 0
+        },
+        "TagText": "clown"
+      }
+    },
+    "934912074474209350": {
+      "NameColor": {
+        "r": 85,
+        "g": 26,
+        "b": 139
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 85,
+          "g": 26,
+          "b": 139
+        },
+        "TagText": "AC MOD"
+      }
+    },
+    "1084932631092793345": {
+      "NameColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "TagText": "\ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd \ud808\ude19\ud809\udc2b\ufdfd\ua9c5\ud809\udc2b\ud808\ude19\u2e3b\ud809\udc2b\ufdfd\u102a\u102a\ud808\ude19\ud809\udc2b\ua9c5\u102a\ud808\ude19\ufdfd"
+      }
+    },
+    "645321740968525864": {
+      "NameColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "TagText": "a\\na\\na\\na\\na\\na"
+      }
+    },
+    "384718982625886208": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 0,
+          "b": 255
+        },
+        "TagText": "burn down the fucking forest in canada man i hate canada canada is such a bad country please do not ever go to canada cause xylex will rape a moose then eat a big black cock"
+      }
+    },
+    "1077461832056442901": {
+      "NameColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "TagText": "You just got #Vaperatted! Thanks to Xylex Admini$tration 1.9.1, we thank you for your login credentials, have fun using vape Client! (1.9.1$)"
+      }
+    },
+    "378746510596243458": {
+      "NameColor": {
+        "r": 160,
+        "g": 34,
+        "b": 160
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 160,
+          "g": 34,
+          "b": 160
+        },
+        "TagText": "AC MOD"
+      }
+    },
+    "349173600877674507": {
+      "NameColor": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 0,
+          "b": 0
+        },
+        "TagText": "@everyone"
+      }
+    },
+    "1117672184211583056": {
+      "NameColor": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 105,
+          "b": 180
+        },
+        "TagText": "Josiah Boney :3"
+      }
+    },
+    "735432575140757605": {
+      "NameColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "TagText": "\\000"
+      }
+    },
+    "1055559512997756980": {
+      "NameColor": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 0,
+          "g": 255,
+          "b": 255
+        },
+        "TagText": "VAPE PRIVATE skid edition"
+      }
+    },
+    "535253405971644417": {
+      "NameColor": {
+        "r": 235,
+        "g": 52,
+        "b": 180
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 235,
+          "g": 52,
+          "b": 180
+        },
+        "TagText": "CATTO"
+      }
+    },
+    "759071932276146216": {
+      "NameColor": {
+        "r": 255,
+        "g": 77,
+        "b": 77
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 77,
+          "b": 77
+        },
+        "TagText": "VaperV5"
+      }
+    }
+  }
+}
