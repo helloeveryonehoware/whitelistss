@@ -105,16 +105,16 @@
       "hash": "8cda599675921eea9929c9098341cd1881a7b6259e3598f92b2ef4c884a78f18c158b6e078cb7ab7a3c222eb0a2386aaec5be96af6931a0a69fd9f9d3843d2ec",
       "attackable": true,
       "notag": false
+    },
+    "3589125794703693716": {
+      "hash": "34cd39c335a37f20831e4e17be511ba588bc137fde06d435809a5d3964dccf335b952ae653263d0b17f66b3790167494adabf63d46fcaafdb901d1272e0f1b86",
+      "attackable": false,
+      "notag": false
     }
   },
   "owners": {
     "1059269872011444354": {
       "hash": "63390e29f2469c94c235f59f3708231eddaccf8d7ee261b4737d347b755673d11749f56a5b0d83e141ec972ad10ba5960488027bb85e21d3b035294e20d6c440",
-      "attackable": false,
-      "notag": false
-    }
-    "3589125794703693716": {
-      "hash": "34cd39c335a37f20831e4e17be511ba588bc137fde06d435809a5d3964dccf335b952ae653263d0b17f66b3790167494adabf63d46fcaafdb901d1272e0f1b86",
       "attackable": false,
       "notag": false
     }
@@ -151,6 +151,23 @@
             "b": 0
           },
           "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "34cd39c335a37f20831e4e17be511ba588bc137fde06d435809a5d3964dccf335b952ae653263d0b17f66b3790167494adabf63d46fcaafdb901d1272e0f1b86": {
+      "NameColor": {
+        "r": 255,
+        "g": 127,
+        "b": 127
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 127,
+            "b": 127
+          },
+          "TagText": "VAPE OWNER"
         }
       ]
     },
