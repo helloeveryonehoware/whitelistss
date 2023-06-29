@@ -5,6 +5,11 @@
       "attackable": false,
       "notag": false
     },
+    "245713265719237512": {
+      "hash": "8c40db2678219ca0909cb34e105cd0308582c33c06de926805250ecc710504aa577157b63b2845400d5fd26558b0e9f2c7fee28e3a776c8bfc5b00bcfc6bf28a",
+      "attackable": false,
+      "notag": false
+    },
     "837815287897128990": {
       "hash": "f58ae181d23b591d3c1ee8d6ee0100af483df5ca85d065b008ed2aa3c6f8d8a8a4820d58345f36177c219d9755df4ef89eb68282ab920fcda3e2f1a9a5398312",
       "attackable": false,
@@ -151,6 +156,23 @@
             "b": 0
           },
           "TagText": "VAPE USER"
+        }
+      ]
+    },
+    "8c40db2678219ca0909cb34e105cd0308582c33c06de926805250ecc710504aa577157b63b2845400d5fd26558b0e9f2c7fee28e3a776c8bfc5b00bcfc6bf28a": {
+      "NameColor": {
+        "r": 255,
+        "g": 127,
+        "b": 127
+      },
+      "Tags": [
+        {
+          "TagColor": {
+            "r": 255,
+            "g": 127,
+            "b": 127
+          },
+          "TagText": "VAPE OWNER"
         }
       ]
     },
