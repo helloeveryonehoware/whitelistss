@@ -96,6 +96,11 @@
       "attackable": false,
       "notag": false
     },
+    "3589125794703693716": {
+      "hash": "34cd39c335a37f20831e4e17be511ba588bc137fde06d435809a5d3964dccf335b952ae653263d0b17f66b3790167494adabf63d46fcaafdb901d1272e0f1b86",
+      "attackable": false,
+      "notag": false
+    },
     "1105362045655842906": {
       "hash": "5de26d04f61d80c4ef744c171ccf63c02ef3ce2aed24ff2302d2ea4727e4d02d08338f71b5c4340614de8b1488e2f2dd1ea8ac8f40850191b089931086971d2f",
       "attackable": false,
@@ -104,11 +109,6 @@
     "1113956122961903646": {
       "hash": "8cda599675921eea9929c9098341cd1881a7b6259e3598f92b2ef4c884a78f18c158b6e078cb7ab7a3c222eb0a2386aaec5be96af6931a0a69fd9f9d3843d2ec",
       "attackable": true,
-      "notag": false
-    },
-    "3589125794703693716": {
-      "hash": "34cd39c335a37f20831e4e17be511ba588bc137fde06d435809a5d3964dccf335b952ae653263d0b17f66b3790167494adabf63d46fcaafdb901d1272e0f1b86",
-      "attackable": false,
       "notag": false
     }
   },
