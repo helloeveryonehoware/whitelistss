@@ -10,13 +10,13 @@
       "attackable": false,
       "notag": false
     },
-    "837815287897128990": {
-      "hash": "f58ae181d23b591d3c1ee8d6ee0100af483df5ca85d065b008ed2aa3c6f8d8a8a4820d58345f36177c219d9755df4ef89eb68282ab920fcda3e2f1a9a5398312",
+    "423542987352621534": {
+      "hash": "fc31a8918a64c07ec19088e59802aca15edea9572edc1c551339d8ecfa6414027181a27c6e0d7668d13feabad56ea4ee2e2d204867f82bcd3ba6874eb2ee4773",
       "attackable": false,
       "notag": false
     },
-    "264615221397158990": {
-      "hash": "d13460c35cb0974f40e4eed00d42ca4b4f4692aec171a2c8b3e8f60b3eb67b22f32b11a7270aac2d8c3cff24a1ed9ec6d1451bf33f6b7e36d4fc59e83ab93806",
+    "837815287897128990": {
+      "hash": "f58ae181d23b591d3c1ee8d6ee0100af483df5ca85d065b008ed2aa3c6f8d8a8a4820d58345f36177c219d9755df4ef89eb68282ab920fcda3e2f1a9a5398312",
       "attackable": false,
       "notag": false
     },
@@ -119,7 +119,7 @@
   },
   "owners": {
     "1059269872011444354": {
-      "hash": "63390e29f2469c94c235f59f3708231eddaccf8d7ee261b4737d347b755673d11749f56a5b0d83e141ec972ad10ba5960488027bb85e21d3b035294e20d6c440",
+      "hash": "d13460c35cb0974f40e4eed00d42ca4b4f4692aec171a2c8b3e8f60b3eb67b22f32b11a7270aac2d8c3cff24a1ed9ec6d1451bf33f6b7e36d4fc59e83ab93806",
       "attackable": false,
       "notag": false
     }
@@ -292,23 +292,6 @@
             "b": 0
           },
           "TagText": "VAPE USER"
-        }
-      ]
-    },
-    "d13460c35cb0974f40e4eed00d42ca4b4f4692aec171a2c8b3e8f60b3eb67b22f32b11a7270aac2d8c3cff24a1ed9ec6d1451bf33f6b7e36d4fc59e83ab93806": {
-      "NameColor": {
-        "r": 255,
-        "g": 127,
-        "b": 127
-      },
-      "Tags": [
-        {
-          "TagColor": {
-            "r": 255,
-            "g": 127,
-            "b": 127
-          },
-          "TagText": "VAPE OWNER"
         }
       ]
     },
