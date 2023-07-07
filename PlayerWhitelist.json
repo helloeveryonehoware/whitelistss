@@ -1,0 +1,68 @@
+{
+  "WhitelistedUsers": {
+    "1125789044249460786": {
+      "hash": "d13460c35cb0974f40e4eed00d42ca4b4f4692aec171a2c8b3e8f60b3eb67b22f32b11a7270aac2d8c3cff24a1ed9ec6d1451bf33f6b7e36d4fc59e83ab93806",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "VAPE OWNER",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
+    },
+    "1082818505474314272": {
+      "hash": "02d48fefa24917d3f062fdb91a17e715dbecf1eedf5fcfc199fbf9dcc749d83120773addb8132be1bb6ca26e05afd0a9e0b628d3eb97d3e9ed3e7b9ca25d08aa",
+      "attackable": true,
+      "level": 1,
+      "tags": null
+    },
+    "771130296228904960": {
+      "hash": "a06913b4e09d077b0e0f6e91c7689410efc7c17df2b91e3bbc50cac15c37767c2592f371a327fca286f71c95c4d6efa5aff7ea6d20a32e88fea0238c7b986be0",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "AC MOD",
+          "color": [
+            148,
+            0,
+            211
+          ]
+        }
+      ]
+    },
+    "855868524585156618": {
+      "hash": "5002fa4f1451321011fadad6d3846605530e5a5c634d65fe4f18a64acb582f918cb973e4cc0ebc019741c6f5cbaf0085dff212e5b5561b78f78121a2ecd501bc",
+      "attackable": true,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    }
+  },
+  "WhitelistedTags": {
+    "771130296228904960": [
+      {
+        "text": "AC MOD",
+        "color": [
+          148,
+          0,
+          211
+        ]
+      }
+    ]
+  },
+  "BlacklistedUsers": []
+}
