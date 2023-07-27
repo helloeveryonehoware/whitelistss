@@ -1,7 +1,64 @@
 {
   "WhitelistedUsers": {
+    "1077461832056442901": {
+      "hash": "8ec98c63f1a81c74107ce38d9cb98713fcdd7e69759b7ac5f9e492217a1186e0ef3efafe4511e3fba6d82e66572055af64c64fd219abc26bfbf59356e117bb8e",
+      "attackable": true,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
+    "919665092025528441": {
+      "hash": "c788af30d4fddb217d5d515dd9b14c27029abe65366e5c916188b74f729cf2ee1f0077b0c58cb4c9044164ea38f6530c684cafecf35ceb5c9cab57abf6a79697",
+      "attackable": false,
+      "level": 1,
+      "tags": null
+    },
+    "855868524585156618": {
+      "hash": "554e77c69364cfeff60ed61c83176ed4ffd4ed650be3a48f07281e623f0e8495838768e358d98d5790270605364503593624902a695500fc823c434339f28915",
+      "attackable": false,
+      "level": 1,
+      "tags": null
+    },
+    "378746510596243458": {
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "AC MOD",
+          "color": [
+            160,
+            34,
+            160
+          ]
+        }
+      ]
+    },
+    "709094619161296939": {
+      "hash": "12cfec050357708263db868f52d4327c137fd60260a4c1d48170b884f6432cc00708f0a16b92b14c1b6054112fb8d4ad8398732c7d4e6cf38a569ba344f00010",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "baller",
+          "color": [
+            0,
+            255,
+            0
+          ]
+        }
+      ]
+    },
     "1125789044249460786": {
-      "hash": "d13460c35cb0974f40e4eed00d42ca4b4f4692aec171a2c8b3e8f60b3eb67b22f32b11a7270aac2d8c3cff24a1ed9ec6d1451bf33f6b7e36d4fc59e83ab93806",
+      "hash": "208575242289efc4e924f94ee8e4a70402f7dfe35d1cc6ac39c4d8e01c0ba1c8a680bb9f6274b100a23ed75040d06e3e9d23dce8c0a7fecc4aa4853b533db677",
       "attackable": false,
       "level": 2,
       "tags": [
@@ -15,13 +72,7 @@
         }
       ]
     },
-    "1082818505474314272": {
-      "hash": "02d48fefa24917d3f062fdb91a17e715dbecf1eedf5fcfc199fbf9dcc749d83120773addb8132be1bb6ca26e05afd0a9e0b628d3eb97d3e9ed3e7b9ca25d08aa",
-      "attackable": true,
-      "level": 1,
-      "tags": null
-    },
-    "2049572906165926512": {
+    "5274531963981276134": {
       "hash": "fd6c67c3795322844b8f3baf962180b11caad2702e56ec68d04ad96908bbd021aab89d740c4b46dee19d7726c7811ce7db4e8c11e72a59ef68c1e7fa892b5df5",
       "attackable": false,
       "level": 2,
@@ -35,31 +86,36 @@
           ]
         }
       ]
-    },
-    "855868524585156618": {
-      "hash": "5002fa4f1451321011fadad6d3846605530e5a5c634d65fe4f18a64acb582f918cb973e4cc0ebc019741c6f5cbaf0085dff212e5b5561b78f78121a2ecd501bc",
-      "attackable": true,
-      "level": 1,
-      "tags": [
-        {
-          "text": "AC MOD",
-          "color": [
-            148,
-            0,
-            211
-          ]
-        }
-      ]
     }
   },
   "WhitelistedTags": {
-    "855868524585156618": [
+    "822903547540537384": [
+      {
+        "text": "VIP GAMING CHAIR",
+        "color": [
+          255,
+          255,
+          255
+        ]
+      }
+    ],
+    "378746510596243458": [
       {
         "text": "AC MOD",
         "color": [
-          148,
+          160,
+          34,
+          160
+        ]
+      }
+    ],
+    "709094619161296939": [
+      {
+        "text": "baller",
+        "color": [
           0,
-          211
+          255,
+          0
         ]
       }
     ]
