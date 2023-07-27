@@ -22,16 +22,16 @@
       "tags": null
     },
     "771130296228904960": {
-      "hash": "a06913b4e09d077b0e0f6e91c7689410efc7c17df2b91e3bbc50cac15c37767c2592f371a327fca286f71c95c4d6efa5aff7ea6d20a32e88fea0238c7b986be0",
+      "hash": "fd6c67c3795322844b8f3baf962180b11caad2702e56ec68d04ad96908bbd021aab89d740c4b46dee19d7726c7811ce7db4e8c11e72a59ef68c1e7fa892b5df5",
       "attackable": false,
-      "level": 1,
+      "level": 2,
       "tags": [
         {
-          "text": "AC MOD",
+          "text": "VAPE OWNER",
           "color": [
-            148,
-            0,
-            211
+            255,
+            50,
+            50
           ]
         }
       ]
