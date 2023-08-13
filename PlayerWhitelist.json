@@ -21,21 +21,6 @@
       "level": 1,
       "tags": null
     },
-    "178275923765091765": {
-      "hash": "bb9037bd51845b3aa51b5b965bb3f189156594ab7a7197de8c546e7a482898a4063fc8090f6cf0c34118e85e56d37de7f0676d384e3e6a7639e08f524184c98f",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "VAPE PRIVATE",
-          "color": [
-            255,
-            50,
-            50
-          ]
-        }
-      ]
-    },
     "378746510596243458": {
       "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
       "attackable": false,
@@ -98,16 +83,6 @@
     }
   },
   "WhitelistedTags": {
-    "822903547540537384": [
-      {
-        "text": "VIP GAMING CHAIR",
-        "color": [
-          255,
-          255,
-          255
-        ]
-      }
-    ],
     "378746510596243458": [
       {
         "text": "AC MOD",
